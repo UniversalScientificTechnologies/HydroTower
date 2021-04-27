@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2570mm"
+   width="1503mm"
    height="12mm"
-   viewBox="0 0 9106.299 42.519684"
+   viewBox="0 0 5325.5904 42.519684"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="TowerII_12x2570.svg">
+   sodipodi:docname="TowerI_12x1672.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="228.76634"
-     inkscape:cy="-37.186158"
+     inkscape:zoom="0.35"
+     inkscape:cx="4016.6073"
+     inkscape:cy="-357.8461"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,14 +60,14 @@
      transform="translate(-8.2579618,-996.76362)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:0%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="10.514844"
-       y="1035.0586"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27px;line-height:0%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.6532917"
+       y="1033.3551"
        id="text3336"><tspan
          sodipodi:role="line"
          id="tspan3338"
-         x="10.514844"
-         y="1035.0586"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.67179871px;line-height:125%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.5px">II-1A  II-1B  II-1C  II-1D  II-1E  II-1F  II-1G  II-1H  II-2A  II-2B  II-2C  II-2D  II-2E  II-2F  II-2G  II-2H  II-3A  II-3B  II-3C  II-3D  II-3E  II-3F  II-3G  II-3H  II-4A  II-4B  II-4C  II-4D  II-4E  II-4F  II-4G  II-4H  II-5A  II-5B  II-5C  II-5D  II-5E  II-5F  II-5G  II-5H  II-6A  II-6B  II-6C  II-6D  II-6E  II-6F  II-6G  II-6H  II-7A  II-7B  II-7C  II-7D  II-7E  II-7F  II-7G  II-7H  II-8A  II-8B  II-8C  II-8D  II-8E  II-8F  II-8G  II-8H</tspan></text>
+         x="8.6532917"
+         y="1033.3551"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.80461884px;line-height:125%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.25px">I-1A  I-1B  I-1C  I-1D  I-1E  I-1F  I-1G  I-1H  I-2A  I-2B  I-2C  I-2D  I-2E  I-2F  I-2G  I-2H  I-3A  I-3B  I-3C  I-3D  I-3E  I-3F  I-3G  I-3H  I-4A  I-4B  I-4C  I-4D  I-4E  I-4F  I-4G  I-4H  I-5A  I-5B  I-5C  I-5D  I-5E  I-5F  I-5G  I-5H  I-6A  I-6B  I-6C  I-6D  I-6E  I-6F  I-6G  I-6H</tspan></text>
   </g>
 </svg>
