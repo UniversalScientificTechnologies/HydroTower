@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="135mm"
+   width="122mm"
    height="12mm"
-   viewBox="0 0 478.34645 42.519684"
+   viewBox="0 0 432.28345 42.519684"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="TowerI_12x135.svg">
+   sodipodi:docname="PrintTest_12x135.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="460.34548"
+     inkscape:cx="340.34548"
      inkscape:cy="-25.879273"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,14 +60,14 @@
      transform="translate(-10.643966,-996.76362)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:0%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="13.080608"
-       y="1035.0586"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27px;line-height:0%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.25px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.275295"
+       y="1033.3551"
        id="text3336"><tspan
          sodipodi:role="line"
          id="tspan3338"
-         x="13.080608"
-         y="1035.0586"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.67179871px;line-height:125%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.5px">I-1A  I-1B  I-6G  I-6H</tspan></text>
+         x="13.275295"
+         y="1033.3551"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.80461884px;line-height:125%;font-family:'PT Sans Caption';-inkscape-font-specification:'PT Sans Caption, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.25px">I-1A  I-1B  I-6G  I-6H</tspan></text>
   </g>
 </svg>
